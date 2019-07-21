@@ -6,4 +6,6 @@ Caranya gimana?
 **Pull Request** untuk ngasih **Ide** <br>
 **Issues** untuk ngasih **Kritik dan Saran**
 
+Untuk penamaan berkas, mohon disesuaikan dengan ide atau kritik dan saran yang akan diberikan.
+
 Oke guys, ramein dan mohon aktif di repo ini ya. Ditunggu banget kontribusi kalian di repositori ini dan di dunia nyata sebagai _action_ tentunya :D
