@@ -1,11 +1,11 @@
 # pasuruandev
 Repositori ini didedikasikan untuk keberlangsungan komunitas PasuruanDev. Jadi, kalian bisa ngasih kontribusi dengan pikiran kalian disini. Misal ngasih kritik dan saran, ide program atau event atau apapun. Harapannya, kita bisa bertumbuh bareng dan menjadikan komunitas ini bisa berkontribusi dan bermanfaat untuk Pasuruan khususnya dan Indonesia pada umumnya.
 
-Caranya gimana?
+# [Cara Berkontribusi]
 
-**Pull Request** untuk ngasih **Ide** <br>
-**Issues** untuk ngasih **Kritik dan Saran**
+Pertama-tama kami ucapkan terimakasih sebesar-besarnya untuk teman-teman yang sudah mau berkontribusi di repo kami, semoga setiap ilmu yang teman-teman bagikan dapat membantu orang-orang dalam permasalahan yang mereka hadapi.
 
-Untuk penamaan berkas, mohon disesuaikan dengan ide atau kritik dan saran yang akan diberikan.
+# [Langkah - langkah Berkontribusi]
+1. Masuk kedalam repositori resmi pasuruan dev di https://github.com/pasuruandev
 
-Oke guys, ramein dan mohon aktif di repo ini ya. Ditunggu banget kontribusi kalian di repositori ini dan di dunia nyata sebagai _action_ tentunya :D
+![Gambar 1](/images/Picture1.png "Repositori Resmi PasuruanDev")
